@@ -1,7 +1,7 @@
 ---
-# Send title on teleport? (on/off)
+# Send title on screen when the player teleports teleport? (on/off)
 title: "on"
-# Send message on teleport? (on/off)
+# Send message when the player uses /spawn? (on/off)
 message: "on"
 # Send actionbar on teleport? (on/off)
 actionbar: "on"
